@@ -35,13 +35,21 @@ Step 4: Add visualizations, including:
            Pie Chart: Expense breakdown.
            Line Chart: Monthly revenue trends.
            Card Visuals: Total Revenue, Profit, and Overdue Payments.
+           
 Step 5: Apply filters for dynamic insights, such as region, product category, sales by segment.
 
 Step 6: Publish the report to Power BI Service for collaborative access and real-time updates.
 
+Step 7: Add KPI indicators to highlight goals and actuals.
+Example:
+
+Revenue Goal: 5000000
+Actual Revenue: 3000000
+
 ## Snap of dashboard 
 
-![image](https://github.com/user-attachments/assets/4d6c3b40-7b71-4c36-906f-b98da4302d5d)
+![image](https://github.com/user-attachments/assets/10ea55fc-85eb-4ecc-9d7d-b1823f520d50)
+
 
 ## Dashboard Features
            - Dynamic Filters: Filter data by region, product, or time period.
