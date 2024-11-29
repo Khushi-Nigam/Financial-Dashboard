@@ -38,18 +38,17 @@ Step 4: Add visualizations, including:
 Step 5: Apply filters for dynamic insights, such as region, product category, sales by segment.
 
 Step 6: Publish the report to Power BI Service for collaborative access and real-time updates.
-Snap of dashboard ,
 
-![Snap_1] 
+## Snap of dashboard 
 
-![image](https://github.com/user-attachments/assets/fc9ff574-c28a-4929-a4d1-1f73108a0ba3)
+![image](https://github.com/user-attachments/assets/4d6c3b40-7b71-4c36-906f-b98da4302d5d)
 
 ## Dashboard Features
-           Dynamic Filters: Filter data by region, product, or time period.
-           Interactive Visualizations: Drill down into specific metrics for detailed analysis.
-           Key Metrics Overview: Display essential metrics like total revenue, profit, and overdue amounts.
-           Trend Analysis: Monitor revenue and expense trends over time.
-           Export Options: Download reports for sharing with stakeholders.
+           - Dynamic Filters: Filter data by region, product, or time period.
+           - Interactive Visualizations: Drill down into specific metrics for detailed analysis.
+           - Key Metrics Overview: Display essential metrics like total revenue, profit, and overdue amounts.
+           - Trend Analysis: Monitor revenue and expense trends over time.
+           - Export Options: Download reports for sharing with stakeholders.
 # Conclusion
 This Financial Data Dashboard is an effective tool for analyzing and improving financial performance.
 By leveraging the insights provided, organizations can optimize operations, enhance profitability, and ensure sustainable growth.
